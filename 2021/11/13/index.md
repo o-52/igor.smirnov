@@ -5,4 +5,4 @@
 </h3>
 
 - [Протокол старта](StartList.htm)
-- [Протокол Результатов](ResultList.htm)
+- [Протокол результатов](ResultList.htm)
